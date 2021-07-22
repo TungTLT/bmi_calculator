@@ -21,7 +21,7 @@ git clone https://github.com/TungTLT/bmi_calculator.git
 
 ### Executing program
 
-* Get all needed packet
+* Get all needed package
 ```
 flutter pub get
 ```
